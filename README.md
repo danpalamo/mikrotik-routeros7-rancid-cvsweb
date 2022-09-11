@@ -1,5 +1,5 @@
 # mikrotik-routeros7-rancid-cvsweb
-rancid.types.conf for mikrotik routeros version 7
+rancid.types.conf for mikrotik routeros (ros) version 7 (ros7)
 
 mikrotik7;script;rancid -t mikrotik7
 
